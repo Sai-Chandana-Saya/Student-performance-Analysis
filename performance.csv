@@ -1,0 +1,16 @@
+,quiz_id,final_score,trophy_level,accuracy,correct_answers,incorrect_answers,mistakes_corrected,initial_mistake_count,title,topic,improvement,total_questions,initial_perf
+0,51,105.0,2,0.9,27,3,9,12,Human Physiology,Body Fluids and Circulation,0.75,30,0.6
+1,6,92.0,1,1.0,23,0,3,3,Human Physiology,Body Fluids and Circulation,1.0,23,0.8695652173913043
+2,51,115.0,2,0.96,29,1,11,12,Human Physiology,Body Fluids and Circulation,0.9166666666666666,30,0.6
+3,6,35.0,2,0.9,9,1,1,2,Human Physiology,Body Fluids and Circulation,0.5,10,0.8
+4,51,16.0,3,0.31,9,20,0,20,Human Physiology,Body Fluids and Circulation,0.0,29,0.3103448275862069
+5,57,24.0,3,0.38,10,16,0,16,Reproduction,Human Reproduction,0.0,26,0.38461538461538464
+6,6,27.0,3,0.5,9,9,0,9,Human Physiology,Body Fluids and Circulation,0.0,18,0.5
+7,20,5.0,2,0.3,3,7,0,7,PRINCIPLES OF INHERITANCE AND VARIATION PYQ,principles of inheritance and variation ,0.0,10,0.3
+8,24,76.0,2,1.0,19,0,4,4,MICROBES IN HUMAN WELFARE  PYQ,microbes in human welfare,1.0,19,0.7894736842105263
+9,18,40.0,1,1.0,10,0,0,0,REPRODUCTIVE HEALTH PYQ,Reproductive health,,10,1.0
+10,25,110.0,2,0.93,28,2,12,14,HUMAN HEALTH AND DISEASE PYQ,human health and disease ,0.8571428571428571,30,0.5333333333333333
+11,18,61.0,3,0.84,16,3,0,3,REPRODUCTIVE HEALTH PYQ,Reproductive health,0.0,19,0.8421052631578947
+12,58,35.0,2,0.43,13,17,0,17,Reproduction,Reproductive health,0.0,30,0.43333333333333335
+13,50,21.0,3,0.66,6,3,0,3,Human Physiology (14),Respiration and Gas Exchange,0.0,9,0.6666666666666666
+14,43,30.0,2,0.8,8,2,6,8,Structural Organisation in Animals and Plants (7),Structural Organisation in Animals,0.75,10,0.2
